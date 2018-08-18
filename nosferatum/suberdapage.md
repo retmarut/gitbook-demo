@@ -1,8 +1,8 @@
 ---
-description: Desc
+description: Subtitel
 ---
 
-# suberdapage
+# Eerste subpagina
 
 \#Weird subsection - main header h1
 
